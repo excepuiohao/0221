@@ -1,0 +1,13 @@
+package com.test;
+
+import com.java.Loop;
+
+/**
+ * @author excepuio ≤‚ ‘Loop ‰≥ˆ
+ */
+public class TestLoop {
+
+	public static void main(String[] args) {
+		Loop.testLoop();
+	}
+}
